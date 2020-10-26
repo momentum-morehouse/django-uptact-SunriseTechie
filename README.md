@@ -29,6 +29,10 @@ $ cp uptact/.env.sample uptact/.env
 For the first assignment, spend time familiarizing yourself with Django. Look at the `uptact` directory (the _project directory_) and the `contacts` directory (an _app directory_). Answer the following questions for yourself:
 
 * If I wanted to add a new URL to this project, what two files would I edit?
+# in uptact directory
+# urls.py
+# manage.py
+
 * If I wanted to add a birthday to each contact, what file would I edit?
 
 Then do the following steps:
